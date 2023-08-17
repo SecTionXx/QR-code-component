@@ -8,7 +8,7 @@ function App() {
     <div className="w-[100%] h-screen bg-[#D6E2F0] flex flex-col justify-center items-center font-Outfit m">
       <div className=" bg-white  text-[15px] rounded-3xl flex flex-col items-center justify-center p-8  mx-10">
         <img
-          src=".\src\img\image-qr-code.png"
+          src="/src/img/image-qr-code.png"
           alt="QR CODE"
           className=" rounded-xl s"
         />
